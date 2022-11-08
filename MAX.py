@@ -401,21 +401,9 @@ logo = ("""\033[1;32m
    |__/   \______/ |__/  \__/ \______/       |______/    |__/ \______/
                                          
                                                          
-\033
-______________×______________________
-  
-  Auther   :  MEHEDI HASAN TONU
- 
-  Github   :  TONU-143
-
-  Facebook : MMEHEDI HASAN TONU
-  
-  Contact : 01759916221
-  
-  Version : 1.4.3 MAX
-  
-  
-__________________×______________________\033[1;37m""")
+║[•] Author    : TONU-143               ║                                  ║[•] Facebook  : MEHEDI HASAN TONU             ║                                  ║[•] Whatsapp  : +8801759916221        ║
+    ║[•] Github    : github.com/TONU-143     ║                                  ║[•] Status    : PREMIUM                 ║                                  ║[•] Network   : 3G, 4G/5G, ON           ║                                  ║[•] Version   : 2.0.8 MAX               ║
+    ║[•] Tools     : RANDOM
 
 class Main:
 	def __init__(self):
